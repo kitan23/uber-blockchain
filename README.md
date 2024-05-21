@@ -106,7 +106,7 @@ Uber Blockchain leverages the power of blockchain technology to modernize the wa
 
 ### Prerequisites
 
--   npm
+-   yarn
     ```sh
     npm install --global yarn
     ```
@@ -205,7 +205,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - kyletran3202@gmail.com
+Kyle Tran - kyletran3202@gmail.com
 
 Project Link: [https://github.com/kitan23/uber-blockchain](https://github.com/kitan23/uber-blockchain)
 
